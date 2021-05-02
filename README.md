@@ -14,3 +14,5 @@ I created a Python script to visualize the weather for over 500 cities around th
 # VacationPy
 
 Below is a heatmap of the cities fitting my ideal weather criteria.
+
+![](Instructions/Images/map.png)
