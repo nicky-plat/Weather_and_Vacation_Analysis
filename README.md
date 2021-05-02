@@ -1,6 +1,6 @@
 # Weather and Vacation Analysis
 
-I created a Python script to visualize the weather for over 500 cities around the world.
+I created a Python script to visualize the weather for over 500 random cities around the world, and another script to pare those cities down to ones that fit my ideal vacation destination criteria. The code used for each ecercise can be found in the Instructions folder.
 
 # Observations for WeatherPy
 
