@@ -1,6 +1,6 @@
 # Weather and Vacation Analysis
 
-I created a Python script to visualize the weather for over 500 citiesaround the world.
+I created a Python script to visualize the weather for over 500 cities around the world.
 
 # Observations
 
